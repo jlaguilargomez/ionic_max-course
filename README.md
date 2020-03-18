@@ -5,13 +5,19 @@
 ## Content
 
 [**X**] Section 1: **Getting started**
-[**X**] Section 2: **Getting started**
-[**X**] Section 3: **Getting started**
-[**X**] Section 4: **Getting started**
-[**X**] Section 5: **Getting started**
-[**X**] Section 6: **Getting started**
-[**X**] Section 7: **Getting started**
-[**X**] Section 8: **Getting started**
-[**X**] Section 9: **Getting started**
-[**X**] Section 10: **Getting started**
-[**X**] Section 11: **Getting started**
+[**X**] Section 2: **Angular refresher**
+[**X**] Section 3: **Ionic component basics**
+[**X**] Section 4: **Angular + ionic**
+[ ] Section 5: **Building native apps with capacitor**
+[ ] Section 6: **Debugging**
+[ ] Section 7: **Navigator & routing in ionic apps**
+[ ] Section 8: **Ionic components overview**
+[ ] Section 9: **Styling & theming ionic apps**
+[ ] Section 10: **Handling user input**
+[ ] Section 11: **Managing state**
+[ ] Section 12: **Sending http request**
+[ ] Section 13: **Adding Google maps**
+[ ] Section 14: **Using native device features (camera & location)**
+[ ] Section 15: **Adding authentication**
+[ ] Section 16: **Publishing the apps**
+[ ] Section 17: **Roundup**
